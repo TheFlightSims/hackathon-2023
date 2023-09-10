@@ -27,11 +27,11 @@ In this event, participants must create a working app that:
 
 ## Community Guidelines
 
-Everyone of the communities are inclusive environments, based on treating
+Everyone in the communities is an inclusive environment, based on treating
 all individuals respectfully, regardless of
 gender identity and expression, sexual orientation, disabilities,
 neurodiversity, physical appearance, body size, ethnicity, nationality, race,
-age, religion, or similar personal characteristic.
+age, religion, or similar personal characteristics.
 
 We value diverse opinions, but we value respectful behavior more.
 
@@ -42,17 +42,17 @@ Respectful behavior includes:
   physically threatening behavior, speech, and imagery.
 * Not engaging in unwanted physical contact.
 
-Some TheFlightSims open source projects may adopt an explicit project code of
+Some TheFlightSims open-source projects may adopt an explicit project code of
 conduct, which may have additional detailed expectations for participants. Most
 of those projects will use our modified Contributor Covenant.
 
 ## Reporting problems
 
-Some TheFlightSims open source projects may adopt a project-specific code of conduct.
+Some TheFlightSims open-source projects may adopt a project-specific code of conduct.
 In those cases, a TheFlightSims employee will be identified as the Project Steward,
 who will receive and handle reports of code of conduct violations. In the event
 that a project hasn’t identified a Project Steward, you can report problems by
-emailing to [TheFlightSims](mailto:theflightsims@gmail.com).
+emailing [TheFlightSims](mailto:theflightsims@gmail.com).
 
 We will investigate every complaint, but you may not receive a direct response.
 We will use our discretion in determining when and how to follow up on reported
